@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
     // Load an image
-    cv::Mat image = cv::imread("/Users/dpxpd/Pictures/78.jpg");
+    cv::Mat image = cv::imread("PLACEHOLDER");
 
     // Check if the image was successfully loaded
     if (image.empty()) {
