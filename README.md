@@ -3,3 +3,7 @@ This is a test project for research on neural networks. This projects goal is to
 "# IMGNeuralNetwork" 
 "# IMGNeuralNetwork" 
 "# IMGNetwork" 
+# TO DO
+ - Replace file path with correct one 
+ - Focus on backporting
+
